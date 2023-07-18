@@ -9,6 +9,7 @@ public class Variables {
 		char d = 'A';
 		boolean flag1 = false;
 		String f = "Hello";
+		String g = "Hello world";
 		
 		
 		System.out.println(a);
@@ -17,6 +18,7 @@ public class Variables {
 		System.out.println(d);
 		System.out.println(flag1);
 		System.out.println(f);
+		System.out.println(g);
 
 	}
 
